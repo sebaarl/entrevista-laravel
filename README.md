@@ -18,15 +18,14 @@ Clona el repositorio desde GitHub:
 ```bash
 git clone https://github.com/sebaarl/entrevista-laravel.git
 ```
-Accede al directorio del proyecto:
-
-```bash
-cd <NOMBRE_DEL_PROYECTO>
-```
 
 ## Instala las dependencias
 
  + Abre una terminal y navega hasta la carpeta raíz del proyecto Laravel.
+
+```bash
+cd <NOMBRE_DEL_PROYECTO>
+```
 
  + Ejecuta el siguiente comando para instalar las dependencias del proyecto:
 
