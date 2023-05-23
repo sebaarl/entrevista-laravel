@@ -41,7 +41,7 @@ composer install
 cp .env.example .env
 ```
 
- + Abre el archivo .env y ajusta la configuración de la base de datos y otras variables de entorno según tus necesidades.
+ + Abre el archivo .env y ajusta la configuración de la base de datos y de envio de emails.
 
 ## Genera la clave de la aplicación
 
