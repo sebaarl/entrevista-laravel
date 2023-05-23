@@ -1,4 +1,4 @@
-# Ejecución de un código Evaluación-Laboral
+# Ejecución del código Evaluación-Laboral
 
 
 ## Requisitos previos
