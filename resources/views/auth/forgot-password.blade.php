@@ -1,5 +1,7 @@
 @extends('layouts.plantilla')
 
+@section('title', 'Olvidaste tu contraseña?')
+
 @section('content')
     <div class="w-full mx-auto container">
         <div

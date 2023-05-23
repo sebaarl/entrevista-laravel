@@ -1,5 +1,7 @@
 @extends('layouts.plantilla')
 
+@section('title', 'Inicio de sesión')
+
 @section('content')
     <div class="max-w-2xl mx-auto container">
         <div

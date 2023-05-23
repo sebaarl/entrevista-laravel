@@ -1,5 +1,7 @@
 @extends('layouts.plantilla')
 
+@section('title', 'Inicio')
+
 @section('content')
     <div>
         <div class="w-full max-w-sm bg-white border border-gray-200 
